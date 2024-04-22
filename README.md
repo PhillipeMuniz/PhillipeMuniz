@@ -4,7 +4,7 @@
 
 -  Dev Junior
 
--  Ask me about SQL, Python (Pandas, Matplotlib, Seaborn, Numpy) and Machine Learning
+-  Ask me about SQL, Python (Pandas, Matplotlib, Seaborn, Numpy, Django e Streamlit) and Machine Learning
 
 <br><br>
 
